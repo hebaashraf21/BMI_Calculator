@@ -11,7 +11,7 @@
 ## ScreenShots from the app: <a name = "screen-shots"></a>
 ![BMI (2)](https://user-images.githubusercontent.com/90224487/184267479-043f3446-6771-4095-8dc9-fb7113094271.png)
 
-## Demo vedio <a name = "demo_vedio"></a>
+## Demo video <a name = "demo_vedio"></a>
 https://youtube.com/shorts/6Ha7itjwxmA?feature=share
 
 ## Contributors <a name = "Contributors"></a>
